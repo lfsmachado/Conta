@@ -48,4 +48,3 @@ class Conta:
     @staticmethod
     def codigo_banco():
         return {"BB": "001", "Caixa" : "104", "Bradesco" : "237"}
-
